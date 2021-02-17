@@ -5,7 +5,7 @@ Fresh wallets can take a while to download and sync the blockchain. This process
 To take advantage of this:
 
 * First download and unzip the most recent *bootstrap.dat.zip* file: https://github.com/LunariumCoin/lunarium-wallet-bootstrap/releases
-* Then, with the Lunarium wallet closed, the *bootstrap.dat* file into the Lunarium data directory respective to your operating system.
+* Then, with the Lunarium wallet closed, drop the *bootstrap.dat* file into the Lunarium data directory respective to your operating system.
 
 Linux:
 
